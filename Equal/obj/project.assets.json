@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\charu.tandel\\.nuget\\packages\\": {}
+    "C:\\Users\\charu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charu.tandel\\Desktop\\Equal\\Equal.csproj",
+      "projectUniqueName": "C:\\Users\\charu\\OneDrive\\Desktop\\ABC\\DemoRemote1\\equal\\Equal.csproj",
       "projectName": "Equal",
-      "projectPath": "C:\\Users\\charu.tandel\\Desktop\\Equal\\Equal.csproj",
-      "packagesPath": "C:\\Users\\charu.tandel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charu.tandel\\Desktop\\Equal\\obj\\",
+      "projectPath": "C:\\Users\\charu\\OneDrive\\Desktop\\ABC\\DemoRemote1\\equal\\Equal.csproj",
+      "packagesPath": "C:\\Users\\charu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\charu\\OneDrive\\Desktop\\ABC\\DemoRemote1\\equal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\charu.tandel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\charu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
